@@ -1,5 +1,3 @@
-Voici un exemple de README pour un dépôt Git contenant des challenges Python :
-
 ---
 
 # Python Challenges
