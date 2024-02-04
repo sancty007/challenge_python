@@ -1,0 +1,9 @@
+Dans cet exercice, nous allons recréer la méthode split, qui permet de séparer une phrase en plusieurs éléments, en spécifiant une chaîne de caractère avec lequel séparer la phrase.
+
+Nous allons séparer la chaîne de caractères "bonjour-tout-le-monde" sur le tiret (-) pour ainsi récupérer la liste suivante :
+
+["bonjour", "tout", "le", "monde"]
+
+Bien sûr, là encore, pas le droit d'utiliser la méthode split native de Python.
+
+Nous utiliserons la fonction separateur en indiquant en premier paramètre la phrase à séparer et en deuxième paramètre la chaîne de caractère sur laquelle faire la séparation.
