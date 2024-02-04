@@ -25,4 +25,6 @@ Ce dépôt contient une collection de challenges Python conçus pour tester et a
 ## Contribuer
 
 Les contributions sont les bienvenues ! Si vous avez des idées pour de nouveaux challenges ou si vous souhaitez améliorer les challenges existants, n'hésitez pas à ouvrir une pull request. Assurez-vous de suivre les directives de contribution et d'inclure une description détaillée de vos changements.
+
+
 ---
