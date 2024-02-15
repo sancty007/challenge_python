@@ -4,25 +4,18 @@ class ListePersonnalisee:
 
     def ajouter_element(self, element):
         # Ajoute un élément à la liste personnalisée
-        self.elements.append(element)
+        pass 
 
     def supprimer_element(self, index):
         # Supprime l'élément à l'index spécifié de la liste personnalisée
-        if index >= 0 :
-            del self.elements[index]
-        else :
-            print("index hors de n'autre liste ! ")
+        pass
 
     def acces_element(self, index):
         # Retourne l'élément à l'index spécifié de la liste personnalisée
-        if index >= 0 :
-            return self.elements[index]
-        else :
-            print("index hors de n'autre liste ! ")
+      pass 
 
     def affichage(self) :
-        for i in range(len(self.elements)):
-            print(self.acces_element(i))
+        pass 
 
 
 
