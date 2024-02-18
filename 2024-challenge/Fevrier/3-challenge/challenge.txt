@@ -1,0 +1,9 @@
+Le but de cet exercice est de trouver l'erreur d'héritage qui s'est glissée dans le script de départ.
+
+Si on essaie d'afficher l'attribut race sur notre instance chien, dans l'état actuel des choses, on se retrouve avec une erreur. 
+(AttributeError: 'Chihuahua' object has no attribute 'race').
+
+À vous de trouver pourquoi cette erreur apparaît et de modifier la classe Chihuahua afin que l'attribut race contienne bien la chaîne de caractères "Chihuahua" :
+
+>>> print(chien.race)
+"Chihuahua"
