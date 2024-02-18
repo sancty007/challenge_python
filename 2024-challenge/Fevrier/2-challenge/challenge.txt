@@ -1,0 +1,5 @@
+Créez une fonction ListePersonnalisee en Python qui permet de créer une structure de liste personnalisée sans utiliser la syntaxe habituelle des listes Python. Cette structure de liste personnalisée devrait avoir les fonctionnalités suivantes :
+
+    Permettre l'ajout d'éléments à la liste personnalisée.
+    Permettre l'accès aux éléments de la liste personnalisée par index.
+    Permettre la suppression d'éléments de la liste personnalisée.
